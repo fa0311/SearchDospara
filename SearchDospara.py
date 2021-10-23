@@ -1,6 +1,5 @@
 import requests
 from dataclasses import dataclass
-import datetime
 import re
 import xml.etree.ElementTree as et
 
